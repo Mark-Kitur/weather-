@@ -20,8 +20,8 @@ DHT dht(DHTPIN,DHTTYPE);
 
 # define FIREBASE_HOST  "iot-database-964e1-default-rtdb.firebaseio.com"
 // # define FIREBASE_AUTH  "eclC0Q5fzQu06OMpXZ01BQnzSslVzsDJtGq7AkbL"
-# define WIFI_SSID "26"
-# define WIFI_PASSWORD "Mark_2002"
+# define WIFI_SSID "network name"
+# define WIFI_PASSWORD "password"
 
 Firebase firebase (FIREBASE_HOST);
 
